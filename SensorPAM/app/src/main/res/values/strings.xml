@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SensorPAM</string>
+    <string name="info">Aplicativo desenvolvido com o intutito de ajudar mulheres em situações arriscadas, sendo possível acionar ajuda, através de um botao que facilita ligação para a policia.</string>
+    <string name="login"></string>
+    <string name="logo">logo</string>
+    <string name="senha"> </string>
+    <string name="botao"> SAIBA MAIS </string>
+    <string name="loginbotao">CLIQUE PARA INSERIR SEU LOGIN</string>
+    <string name="infooutros">SUGESTÃO DE APLICATIVO: SOS Mulher, onde é encaminhado uma viatura ao seu endereço, clique no Saiba Mais.</string>
+    <string name="silhueta">silhueta</string>
+    <string name="entrar"> ENTRAR </string>
+    <string name="botaomaria">CLIQUE PARA TER INFORMAÇÕES SOBRE A LEI MARIA DA PENHA</string>
+    <string name="callbotao"></string>
+    <string name="maria">A Lei Maria da Penha foi amparada no artigo 226 e em acordos internacionais, altera o Código Penal e aumenta o rigor nas punições para agressões de pessoas próximas. A lei tirou da invisibilidade e inovou ao tratar a violência doméstica e de gênero como uma violação de direitos humanos.
+        A Lei 11.340 configura violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial:...</string>
+    <string name="titulo">CONHEÇA SEUS DIREITOS</string>
+    <string name="sitemaria">LEIA MAIS</string>
+    <string name="cadastre">cadastre-se</string>
+    <string name="cadnome"> Coloque seu nome</string>
+    <string name="caduser">Coloque o seu username</string>
+    <string name="cadsenha">Coloque sua senha</string>
+    <string name="cadnumero"> Coloque seu telefone</string>
+    <string name="cadastro">CADASTRE-SE</string>
+    <string name="ir">IR</string>
+
+</resources>
+
